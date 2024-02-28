@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(241, 199, 122, 0.605);
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.feuille{
+    width: 75%;
+    height:800px;
+    border-radius: 13px;
+    background-color: #fff;
+}
+
+img{
+    height: 300px;
+    width: -webkit-fill-available;
+    border-radius: 13px;
+}
+
+.ensemble{
+    margin: 35px;
+    height: 100%;
+}
+
+.red{
+    background-color: #f2bbdf82;
+    height:130px;
+    border-radius: 13px;
+
+}
+
+.preparation{
+    color: 882867bf ;
+}
